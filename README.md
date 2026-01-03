@@ -20,8 +20,8 @@ My work spans from high-energy physics data triggers at the LHC to architecting 
 ### 🏗️ Featured Projects
 | Project	| Description	| Tech Stack |
 | --- | --- | --- |
-| Heterogeneous SoC |	25-core SIMD GPU + 32-bit RISC CPU with 2D orthogonal broadcast network. Capable of rendering dynamic 3D raytraced scenes at 60FPS on A7 fabric | Verilog, Artix-7, CDC, Assembly |
-| Sparse Systolic Array	| Hybrid MMM/MVM accelerator for Transformer workloads; 100MHz timing closure. Custom transmission protocol and python driver for host - fpga (nexys a7) communication. | SystemVerilog, Python |
+| DIAMOND SoC |	25-core SIMD GPU + 32-bit RISC CPU with 2D orthogonal broadcast network. Capable of rendering dynamic 3D raytraced scenes at 60FPS on A7 fabric | Verilog, Artix-7, CDC, Assembly |
+| HSA Sparse TPU	| Hybrid MMM/MVM accelerator for Transformer workloads; 100MHz timing closure. Custom transmission protocol and python driver for host - fpga (nexys a7) communication. | SystemVerilog, Python |
 
 ### 🏆 Honors
 - First-year Julia Dale Prize in Mathematics
